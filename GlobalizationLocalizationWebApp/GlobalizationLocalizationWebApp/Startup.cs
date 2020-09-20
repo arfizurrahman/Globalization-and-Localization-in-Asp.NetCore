@@ -30,6 +30,7 @@ namespace GlobalizationLocalizationWebApp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddLocalization(options => options.ResourcesPath = "Resources");
+            services.AddSingleton<LocalizationService>();
             services.AddMvc()
                 .AddViewLocalization(LanguageViewLocationExpanderFormat.Suffix)
                 .AddDataAnnotationsLocalization(options =>
@@ -85,6 +86,7 @@ namespace GlobalizationLocalizationWebApp
             app.UseStaticFiles();
 
             app.UseRouting();
+
             var requestLocalizationOptions = app.ApplicationServices.GetService<IOptions<RequestLocalizationOptions>>();
             app.UseRequestLocalization(requestLocalizationOptions.Value);
 
@@ -94,7 +96,7 @@ namespace GlobalizationLocalizationWebApp
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Customer}/{action=Create}/{id?}");
             });
         }
     }

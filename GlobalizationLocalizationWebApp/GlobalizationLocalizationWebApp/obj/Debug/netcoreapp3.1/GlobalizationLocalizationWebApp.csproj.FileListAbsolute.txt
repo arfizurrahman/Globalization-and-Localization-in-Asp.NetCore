@@ -34,7 +34,7 @@ C:\Projects\Asp.net Core\GlobalizationAndLocalizationAsp.NetCore\GlobalizationLo
 C:\Projects\Asp.net Core\GlobalizationAndLocalizationAsp.NetCore\GlobalizationLocalizationWebApp\GlobalizationLocalizationWebApp\obj\Debug\netcoreapp3.1\GlobalizationLocalizationWebApp.TagHelpers.input.cache
 C:\Projects\Asp.net Core\GlobalizationAndLocalizationAsp.NetCore\GlobalizationLocalizationWebApp\GlobalizationLocalizationWebApp\obj\Debug\netcoreapp3.1\GlobalizationLocalizationWebApp.TagHelpers.output.cache
 C:\Projects\Asp.net Core\GlobalizationAndLocalizationAsp.NetCore\GlobalizationLocalizationWebApp\GlobalizationLocalizationWebApp\obj\Debug\netcoreapp3.1\GlobalizationLocalizationWebApp.RazorCoreGenerate.cache
-C:\Projects\Asp.net Core\GlobalizationAndLocalizationAsp.NetCore\GlobalizationLocalizationWebApp\GlobalizationLocalizationWebApp\obj\Debug\netcoreapp3.1\Razor\Controllers\Create.cshtml.g.cs
+C:\Projects\Asp.net Core\GlobalizationAndLocalizationAsp.NetCore\GlobalizationLocalizationWebApp\GlobalizationLocalizationWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Create.cshtml.g.cs
 C:\Projects\Asp.net Core\GlobalizationAndLocalizationAsp.NetCore\GlobalizationLocalizationWebApp\GlobalizationLocalizationWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Projects\Asp.net Core\GlobalizationAndLocalizationAsp.NetCore\GlobalizationLocalizationWebApp\GlobalizationLocalizationWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Projects\Asp.net Core\GlobalizationAndLocalizationAsp.NetCore\GlobalizationLocalizationWebApp\GlobalizationLocalizationWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
